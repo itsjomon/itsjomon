@@ -14,7 +14,7 @@
 
 -  💭 Ask me about `anything`. I mean, I clearly know everything... or maybe I don't. But hey, I’ll pretend I do!
 
-- 📄 For more details, please refer to my <a href="https://drive.google.com/drive/folders/11TU2tH0sUFWhIQtELiPcnWt6TE5vxIRo">**resume**.</a>
+- 📄 For more details, please refer to my <a href="https://1drv.ms/f/s!ArXfHHJRn2FXcf-jYoODQGRTs9Q">**resume**.</a>
 
 - 🔗 Connect with me on : <br>
 
@@ -31,9 +31,9 @@
         <img src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000" alt="Email" height="36" width="65">
       </a>
     </td>
-    <td align="center" width="60">
+        <td align="center" width="60">
       <a href="https://t.me/lostwiththeghost">
-        <img src="https://img.icons8.com/?size=100&id=jZ1z64hEYYLW&format=png&color=000000" alt="GeeksForGeeks" height="36" width="65">
+        <img src="https://img.icons8.com/?size=100&id=jZ1z64hEYYLW&format=png&color=000000" alt="Telegram" height="36" width="65">
       </a>
     </td>
     <td align="center" width="60">
@@ -145,15 +145,15 @@
   <tr border="0">
     <td align='center' width="510">
        <br><br>
-       <img src="https://github-readme-streak-stats-iota-blue.vercel.app?user=itsjomon&theme=react&border_radius=15&card_width=450&card_height=170" alt="GitHub Streak" />
+       <img src="https://streak-stats.demolab.com?user=itsjomon&theme=react&hide_border=false" alt="GitHub Streak" />
       <br>
       <img src="https://github.com/user-attachments/assets/a65e5364-f87e-44ac-82da-e4fffea7219a" alt="Line">
       <br><br>
-      <img width=450 src="https://github-readme-stats.vercel.app/api?username=itsjomon&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+      <img width=450 src="https://github-readme-stats.vercel.app/api?username=itsjomon&theme=react&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
       <br><br>
     <td align='center' width="510">
       <img src="https://github.com/user-attachments/assets/e84fdcd0-00dd-4667-9300-9912e857cb7e" align="center" width="300" alt="GitHub Anime"/><br><br>
-      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjomon&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Languages" />
+      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjomon&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Languages" />
       <br><br>
     </td>
   </tr>
