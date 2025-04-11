@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/e00f5294-c615-45ef-a1bb-7f6658271c73" height="150" width="150" align="center"/><br>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There,%20Iam%20Jomon%20Joy;&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=0e75b6 &vCenter=true&pause=1000&size=22" align="center" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+There,+I+am+Jomon+Joy" alt="Typing SVG" />
 </h1>
 
 <h3 align="center"><img src="https://github.com/user-attachments/assets/2a9f5e49-2993-4f4c-8f72-be2231ef32b4" width="40"/>Aspiring Software Engineer.</h3>
@@ -145,7 +145,7 @@
   <tr border="0">
     <td align='center' width="510">
        <br><br>
-       <img src="https://streak-stats.demolab.com?user=itsjomon&theme=react&hide_border=false" alt="GitHub Streak" />
+       <img width=450 src="https://streak-stats.demolab.com?user=itsjomon&theme=react&hide_border=false" alt="GitHub Streak" />
       <br>
       <img src="https://github.com/user-attachments/assets/a65e5364-f87e-44ac-82da-e4fffea7219a" alt="Line">
       <br><br>
