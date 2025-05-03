@@ -31,18 +31,13 @@
         <img src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000" alt="Email" height="36" width="65">
       </a>
     </td>
-        <td align="center" width="60">
-      <a href="https://t.me/lostwiththeghost">
-        <img src="https://img.icons8.com/?size=100&id=jZ1z64hEYYLW&format=png&color=000000" alt="Telegram" height="36" width="65">
-      </a>
-    </td>
     <td align="center" width="60">
-      <a href="https://www.geeksforgeeks.org/user/jomonjoy/">
+      <a href="https://www.geeksforgeeks.org/user/itsjomon/">
         <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GeeksForGeeks" height="36" width="65">
       </a>
     </td>
     <td align="center" width="60">
-      <a href="https://leetcode.com/u/jomonjoy/">
+      <a href="https://leetcode.com/u/itsjomon/">
         <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="Leetcode" height="36" width="65">
       </a>
     </td>
@@ -117,7 +112,7 @@
       <p>Git</p>
     </td>
     <td align='center' width="150">
-      <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="gitHub" width="45" height="45"/><br>
+      <img src="https://img.icons8.com/fluency/100/github.png" alt="gitHub" width="45" height="45"/><br>
       <p>GitHub</p>
     </td>
   </tr>
@@ -132,10 +127,10 @@
 <table width="100">
   <tr border="0">
     <td align='center' width="510">
-      <img src="https://gfgstatscard.vercel.app/jomonjoy" alt="GeeksForGeeks" />
+      <img src="https://gfgstatscard.vercel.app/itsjomon" alt="GeeksForGeeks" />
     </td>
     <td align='center' width="510">
-      <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/jomonjoy?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode"/>
+      <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/itsjomon?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode"/>
     </td>
   </tr>
 </table>
